@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 5593a5d3a420b5146b749e594c7cc58f
+  productGUID: 2d5665c61db87bd469ec3adfab587608
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -920,11 +920,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 513b3ac3-ce83-430e-a573-1c342ac63848
+  cloudProjectId: f60c46aa-dd87-4b96-bdc4-d7bf23b977d0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Module_01 2025-08-27_23-17-54
-  organizationId: toolbit_sdccd
+  projectName: Module_01
+  organizationId: thereallostgod
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
